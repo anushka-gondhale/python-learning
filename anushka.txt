@@ -1,2 +1,1 @@
-hello dada
-hello everyone
+Anushka is learning git very nicely.

@@ -1,1 +1,3 @@
-anushka learning git branch 
+hello
+ my name is anushka 
+ i am fycs student
